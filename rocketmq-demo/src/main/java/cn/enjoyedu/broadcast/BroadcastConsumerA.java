@@ -28,5 +28,6 @@ public class BroadcastConsumerA {
         });
         consumer.start();
         System.out.printf("Consumer Started.%n");
+
     }
 }
